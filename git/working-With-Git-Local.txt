@@ -1,4 +1,7 @@
 scenario 1: Create Empty Local repository & add some files, modify files then add to git staging area & commit all changes together
+        configure git:
+	git config --global user.email "email"
+	git config --global user.name "username"
 
 	mkdir ProjectA ; cd ProjectA
 	git init ( will initialize the empty project if the directory is empty )
