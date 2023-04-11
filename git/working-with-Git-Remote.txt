@@ -79,6 +79,6 @@ ls -la
 cat id_rsa.pub
 copy the key
 in github:
-click on settings > ssh and 
+click on settings > ssh and gpg keys >add ssh key
 	
 	
